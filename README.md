@@ -1,4 +1,4 @@
-<h1 align="center">:whale2: Orca</h1>
+<h1 align="center">🌌: NateClient</h1>
 <div align="center">A free and open-source Roblox script hub</div>
 <br>
 <div align="center">
@@ -7,23 +7,21 @@
 </div>
 <div>&nbsp;</div>
 
-## :whale2: Introduction
+## 🌌: Introduction
 
-**Orca** is a **general-purpose** Roblox script hub designed to make convenient tasks **easy** and **satisfying**.
+**Nate** is a **general-purpose** Roblox script hub designed to make convenient tasks **easy** and **satisfying**.
 
-Use many different **action cards** on the [**Home**](https://github.com/richie0866/orca#house-home) and [**Apps**](https://github.com/richie0866/orca#iphone-apps) page, or check out what we have featured on the [**Scripts**](https://github.com/richie0866/orca#newspaper-scripts) page.
-
-Press `K` to open or close Orca. For the best experience, a 1080p monitor or above is recommended!
+Press `K` to open or close Nate or set your own keybinds in the settings!. For the best experience, a 1080p monitor or above is recommended!
 
 &nbsp;
 
 ## :rocket: Quick start
 
-When run with auto-execution, Orca will start minimized by default.
+When run with auto-execution, Nate will start minimized by default.
 
 ### :pushpin: Latest release
 
-Runs the latest release build of Orca.
+Runs the latest release build of Nate.
 
 ```lua
 loadstring(
@@ -75,7 +73,7 @@ The **Scripts** page is a small collection of community-favorites you should try
 
 - :books: **Solaris** - https://solarishub.dev
 - :books: **V.G Hub** - https://github.com/1201for
-- :books: **EvoV2** - https://projectevo.xyz
+- :books: **EvoV2** - https://projectevo.xyz (DISCONTINUED! ⚠️)
 - :shield: **CMD-X** - https://github.com/CMD-X
 - :shield: **Infinite Yield** - https://github.com/EdgeIY
 - :mag_right: **Dex Explorer** - https://github.com/LorekeeperZinnia
@@ -94,6 +92,5 @@ The **Options** page lets you configure theming and UI performance.
 
 ## :sparkling_heart: Support
 
-- :white_check_mark: ScriptWare
-- :white_check_mark: Synapse X
-- :white_check_mark: Krnl
+- :white_check_mark: All Pc executors
+- :white_check_mark: All Android executors
