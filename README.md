@@ -24,19 +24,7 @@ When run with auto-execution, Nate will start minimized by default.
 Runs the latest release build of Nate.
 
 ```lua
-loadstring(
-  game:HttpGetAsync("https://raw.githubusercontent.com/richie0866/orca/master/public/latest.lua")
-)()
-```
-
-### :construction: Nightly snapshot
-
-Runs a snapshot of new updates we have not published yet. You will get new features earlier, but they may be unstable.
-
-```lua
-loadstring(
-  game:HttpGetAsync("https://raw.githubusercontent.com/richie0866/orca/master/public/snapshot.lua")
-)()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/glu3st1ff/NateClient/master/MainScript.lua"))()
 ```
 
 &nbsp;
